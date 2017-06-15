@@ -1,3 +1,7 @@
+This is a fork of the example project from:
+
+https://angular.io/guide/webpack
+
 # First-time setup
 
 1. Get [yarn](https://yarnpkg.com/)
